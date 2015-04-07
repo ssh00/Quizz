@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<music>
+     <level>
+        <levelNumber>1</levelNumber>
+		<textId>I’m tall when I’m young and I’m short when I’m old. What am I?</textId>
+		<ribbon>FIRE</ribbon>
+		<answer>CANDLE</answer>
+    </level>
+    <level>
+        <levelNumber>2</levelNumber>
+		<textId>What goes up but never comes down?</textId>
+		<ribbon>YEAR</ribbon>
+		<answer>AGE</answer>
+    </level>
+    
+    <level>
+        <levelNumber>3</levelNumber>
+		<textId>If I have it, I don’t share it. If I share it, I don’t have it. What is it?</textId>
+		<ribbon>KEEP</ribbon>
+		<answer>SECRET</answer>
+    </level>
+    
+    <level>
+        <levelNumber>4</levelNumber>
+		<textId>What gets broken without being held?</textId>
+		<ribbon>KEEP</ribbon>
+		<answer>PROMISE</answer>
+    </level>
+    
+    <level>
+        <levelNumber>5</levelNumber>
+		<textId>You walk into a room with a match, a kerosene lamp, a candle, and a fireplace. Which do you light first?</textId>
+		<ribbon>BOX</ribbon>
+		<answer>MATCH</answer>
+    </level>
+    
+    <level>
+        <levelNumber>6</levelNumber>
+		<textId>What kind of tree can you carry in your hand?</textId>
+		<ribbon>FOREST</ribbon>
+		<answer>PALM</answer>
+    </level>
+    
+    <level>
+        <levelNumber>7</levelNumber>
+		<textId>What comes down but never goes up?</textId>
+		<ribbon>WATER</ribbon>
+		<answer>RAIN</answer>
+    </level>
+    
+     
+    <level>
+        <levelNumber>8</levelNumber>
+		<textId>If two is a company and three’s a crowd, what are four and five?</textId>
+		<ribbon>NUMBER</ribbon>
+		<answer>NINE</answer>
+    </level>
+    <level>
+        <levelNumber>9</levelNumber>
+		<textId>What goes through towns and over hills but never moves?</textId>
+		<ribbon>PATH</ribbon>
+		<answer>ROAD</answer>
+    </level>
+    <level>
+        <levelNumber>10</levelNumber>
+		<textId>What is so delicate that saying its name breaks it?</textId>
+		<ribbon>STOP</ribbon>
+		<answer>SILENCE</answer>
+    </level>
+ </music>
